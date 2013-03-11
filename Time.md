@@ -114,3 +114,5 @@ Assumptions about Time
 111. Two subsequent calls to a getCurrentTime() function will return distinct results.
 112. The second of two subsequent calls to a getCurrentTime() function will return a larger result.
 113. The software will never run on a space ship that is orbiting a black hole.
+114. The system clock will be using the Gregorian Calendar
+115. The server clock and the client clock will be using the same Calendar

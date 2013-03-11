@@ -1,7 +1,6 @@
-Falsehoods
+The Big Book of Programming Assumptions
 ==========
-
-The Big Book of Programming Assumptions (or How I Learned to Stop Worrying and Love the Bugs)
+(or How I Learned to Stop Worrying and Love the Bugs)
 ----------
 
 + Assumptions about [Names](Names.md)

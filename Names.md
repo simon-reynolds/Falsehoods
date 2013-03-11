@@ -41,3 +41,4 @@ Assumptions about Names
 38. Two different data entry operators, given a person’s name, will by necessity enter bitwise equivalent strings on any single system, if the system is well-designed.
 39. People whose names break my system are weird outliers.  They should have had solid, acceptable names, like 田中太郎.
 40. People have names.
+41. People's names will not change depending what country they are in

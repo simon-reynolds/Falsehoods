@@ -1,3 +1,6 @@
+Assumptions about Names
+==========
+
 1. People have exactly one canonical full name.
 2. People have exactly one full name which they go by.
 3. People have, at this point in time, exactly one canonical full name.

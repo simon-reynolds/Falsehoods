@@ -5,12 +5,12 @@ Assumptions about Time
 2. Months have either 30 or 31 days.
 3. Years have 365 days.
 4. February is always 28 days long.
-5. Any 24-hour period will always begin and end in the same day (or week, or month).
+5. Any 24-hour period will always begin and end in the same day (or week, or month...).
 6. A week always begins and ends in the same month.
 7. A week (or a month) always begins and ends in the same year.
 8. The machine that a program runs on will always be in the GMT time zone.
 9. Ok, that’s not true. But at least the time zone in which a program has to run will never change.
-10. Well, surely there will never be a change to the time zone in which a program hast to run in production.
+10. Well, surely there will never be a change to the time zone in which a program has to run in production.
 11. The system clock will always be set to the correct local time.
 12. The system clock will always be set to a time that is not wildly different from the correct local time.
 13. If the system clock is incorrect, it will at least always be off by a consistent number of seconds.

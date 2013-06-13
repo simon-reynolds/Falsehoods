@@ -51,7 +51,7 @@ Assumptions about Time
 48. Unix time is completely ignorant about anything except seconds.
 49. Unix time is the number of seconds since Jan 1st 1970.
 50. The day before Saturday is always Friday.
-51. Contiguous timezones are no more than an hour apart. (aka we don’t need to test what happens to the avionics when you fly over the International Date 1. Line)
+51. Contiguous timezones are no more than an hour apart. (aka we don’t need to test what happens to the avionics when you fly over the International Date Line)
 52. Two timezones that differ will differ by an integer number of half hours.
 53. Okay, quarter hours.
 54. Okay, seconds, but it will be a consistent difference if we ignore DST.
